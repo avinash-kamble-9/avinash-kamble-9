@@ -82,4 +82,4 @@
 </p>
 
 
-[![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-kamble-9&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-kamble-9&theme=react-dark)]
