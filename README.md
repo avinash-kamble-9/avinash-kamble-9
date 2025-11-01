@@ -70,7 +70,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-kamble-9&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-kamble-9&theme=tokyonight&hide_border=true" alt="Avinash's Streak"/>
+</p>
 
 
 ## 🌍 Connect with Me
