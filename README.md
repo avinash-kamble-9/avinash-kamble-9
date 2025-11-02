@@ -32,7 +32,7 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinash-kamble-9&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXX?style=for-the-badge&logo=youtube&label=Subscribe&color=red)](https://www.youtube.com/@avinashzz)
+
 [![GitHub followers](https://img.shields.io/github/followers/avinash-kamble-9?label=Followers&logo=github&style=for-the-badge)](https://github.com/avinash-kamble-9)
 
 ---
