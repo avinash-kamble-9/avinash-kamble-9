@@ -10,32 +10,18 @@
 
 ### 🌐 Let's Connect  
 
+
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinashzz/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:avinash116zz@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/avinash-kamble-9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-  </a>
-  
-  <a href="https://www.instagram.com/inash,av_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/avinash11z" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter"/>
-  </a>
+  <a href="https://www.linkedin.com/in/avinashzz/"><img class="icon" src="https://img.icons8.com/color/96/linkedin.png" style="--color:#0A66C2;"></a>
+  <a href="mailto:avinash116zz@gmail.com"><img class="icon" src="https://img.icons8.com/color/96/gmail-new.png" style="--color:#FF4500;"></a>
+  <a href="https://github.com/avinash-kamble-9"><img class="icon" src="https://img.icons8.com/glyph-neue/96/github.png" style="--color:#9b59b6;"></a>
+  <a href="https://www.instagram.com/inash.av_"><img class="icon" src="https://img.icons8.com/color/96/instagram-new.png" style="--color:#FF69B4;"></a>
 </p>
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=avinash-kamble-9&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-[![GitHub followers](https://img.shields.io/github/followers/avinash-kamble-9?label=Followers&logo=github&style=for-the-badge)](https://github.com/avinash-kamble-9)
 
----
 
 </div>
 
@@ -118,6 +104,7 @@
 
 
 [![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-kamble-9&theme=react-dark)]
+
 
 
 
