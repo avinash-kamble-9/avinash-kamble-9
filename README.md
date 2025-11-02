@@ -96,7 +96,7 @@
 
 
 
-[![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-kamble-9&theme=react-dark)]
+![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-kamble-9&theme=react-dark)
 
 
 
