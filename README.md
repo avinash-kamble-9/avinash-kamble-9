@@ -94,13 +94,6 @@
 </p>
 
 
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/avinashzz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/avinash-kamble-9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:avinashkamble.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 
 [![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-kamble-9&theme=react-dark)]
