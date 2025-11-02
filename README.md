@@ -1,12 +1,45 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Avinash Kamble</span></h1>
 
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Data Science | Cloud & Generative AI Enthusiast</h3>
+
+<!-- 🌟 Fancy GitHub Profile Header for Avinash Kamble -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Avinash+Kamble;🚀+Aspiring+AI%2FML+Engineer;☁️+Cloud+%26+Generative+AI+Enthusiast;💡+Turning+Data+into+Intelligence" alt="Typing SVG" />
+
+---
+
+### 🌐 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinashzz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:avinash116zz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/avinash-kamble-9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/avinashzz/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:avinash116zz@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/avinash-kamble-9" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+  </a>
+  <
+  <a href="https://www.instagram.com/inash,av_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/avinash11z" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter"/>
+  </a>
 </p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=avinash-kamble-9&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXX?style=for-the-badge&logo=youtube&label=Subscribe&color=red)](https://www.youtube.com/@avinashzz)
+[![GitHub followers](https://img.shields.io/github/followers/avinash-kamble-9?label=Followers&logo=github&style=for-the-badge)](https://github.com/avinash-kamble-9)
+
+---
+
+</div>
+
+
 
 ---
 
@@ -85,3 +118,6 @@
 
 
 [![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-kamble-9&theme=react-dark)]
+
+
+
