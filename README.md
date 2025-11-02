@@ -20,7 +20,7 @@
   <a href="https://github.com/avinash-kamble-9" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
   </a>
-  <
+  
   <a href="https://www.instagram.com/inash,av_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
   </a>
