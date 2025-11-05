@@ -38,7 +38,7 @@
 - ☁️ Exploring **AWS**, **GCP**, and **TensorFlow Serving** for scalable ML pipelines.  
 - 💻 Working on projects that combine **AI, automation, and web systems** for real-world use cases.  
 - 🧩 Love solving **DSA**, **ML optimization**, and **AI model performance** problems.  
-- 🪄 Fun Fact: I debug with coffee ☕ and deploy with confidence 🚀  
+- 🪄 Fun Fact: I debug with coffee ☕ and deploy with tea.. 🚀  
 
 ---
 
