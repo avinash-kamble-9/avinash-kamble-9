@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Avinash+Kamble;🚀+Aspiring+AI%2FML+Engineer;☁️+Cloud+%26+Generative+AI+Enthusiast;💡+Turning+Data+into+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Avinash+Kamble;🚀+Aspiring+AI%2FML+Engineer;☁️+Generative+AI+Enthusiast;💡+Turning+Data+into+Intelligence" alt="Typing SVG" />
 
 ---
 
@@ -82,9 +82,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-kamble-9&show_icons=true&theme=tokyonight" alt="Avinash's GitHub stats" />
-</p>
+
 
 
 <p align="center">
