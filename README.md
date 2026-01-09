@@ -12,7 +12,10 @@
   <a href="https://www.linkedin.com/in/avinashzz/"><img src="https://img.icons8.com/color/96/linkedin.png"></a>
   <a href="mailto:avinash116zz@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png"></a>
   <a href="https://github.com/avinash-kamble-9"><img src="https://img.icons8.com/glyph-neue/96/github.png"></a>
-  <a href="https://www.instagram.com/inash.av_"><img src="https://img.icons8.com/color/96/instagram-new.png"></a>
+ <a href="https://leetcode.com/u/a1vinash/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="96"/>
+</a>
+
 </p>
 
 </div>
