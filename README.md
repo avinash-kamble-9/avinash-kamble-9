@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Avinash+Kamble;Software+Engineer+Intern+(Backend+%26+AI);Building+Scalable+Backend+Systems;AI+as+a+System+Capability;Preparing+for+FAANG+SWE+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Avinash+Kamble;Software+Engineer+Intern+(Backend+%26+AI);Building+Scalable+Backend+Systems;AI+as+a+System+Capability" alt="Typing SVG" />
 
 ---
 
