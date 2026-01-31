@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects (FAANG-Style)
+## 🚀 Featured Projects 
 
 ### 🔹 AI-Powered RAG Study Assistant
 **Tech:** Python · FastAPI · Whisper · Vector Search · LLMs (Ollama/OpenAI)
